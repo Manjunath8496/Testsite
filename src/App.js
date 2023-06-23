@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is my Fisrt Deployed Site...
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://navnathkamble.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Navnath Kamble - SDET
         </a>
       </header>
     </div>
